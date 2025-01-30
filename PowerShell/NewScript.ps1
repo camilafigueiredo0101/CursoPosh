@@ -1,0 +1,1 @@
+write-host "mais um teste do curso de posh"
